@@ -1,4 +1,4 @@
 def hello(a):
     print(a)
 
-hello("Hello")
+hello("hello")
